@@ -1,2 +1,5 @@
-# bank-marketing-mlopsYanis, PrénomDeTonBinôme
+# bank-marketing-mlops
+
+## Auteurs
+
 Yanis, Maxime
