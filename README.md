@@ -1,1 +1,2 @@
-# bank-marketing-mlops
+# bank-marketing-mlopsYanis, PrénomDeTonBinôme
+Yanis, Maxime
